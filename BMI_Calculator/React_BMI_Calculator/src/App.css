@@ -1,0 +1,10 @@
+body {
+  background-color: 	#282b30;
+}
+
+#root {
+  margin: 0 auto;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  text-align: center;
+}
